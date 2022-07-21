@@ -1,4 +1,4 @@
-## 云学习平台欢迎您
+## 云学习
 
 You can use the [editor on GitHub](https://github.com/yunxuexi/yunxuexi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
